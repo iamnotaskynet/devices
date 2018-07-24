@@ -3,6 +3,9 @@ This is just a page with information about my devices, something like charachter
 
 ## Devices
  Dell Inspirion 1012 Mini
+ 
  Dell Inspirion 3543
+ 
  Acer ...
+ 
  Nomi i5012 Evo M2
